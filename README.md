@@ -1,2 +1,2 @@
-# rpi_self_driving_RC_car
+# rpi self driving RC car
 A self driving RC car using the Raspberry Pi
