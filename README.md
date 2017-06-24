@@ -11,8 +11,8 @@ A self driving RC car using the Raspberry Pi
 
 
 # Notes
-Car chip controls:
-M1: Left
-M2: Right
-M3: Forward
-M4: Backward
+Car chip controls:  
+M1: Left  
+M2: Right  
+M3: Forward  
+M4: Backward  
