@@ -8,3 +8,15 @@ A self driving RC car using the Raspberry Pi
 * [Male to Female Jumper wires](https://www.amazon.com/Aketek-Jumper-Wires-Premium-Female/dp/B008MRZSH8)
 * [Basic kit](https://www.amazon.com/Elegoo-Electronics-Potentiometer-tie-points-Breadboard/dp/B01ERPEMAC/ref=sr_1_9?ie=UTF8&qid=1491430213&sr=8-9&keywords=raspberry%20pi%20jumper%20wires)
 * [picam](https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_2?ie=UTF8&qid=1491430587&sr=8-2&keywords=pi+cam)
+
+
+# Project Breakdown
+
+### Hardware interface:
+Figuring out how to interface with the raspberry pi gpio pins to control the rc car
+
+### Network interface:
+Figuring out how to connect to the raspberry pi (wifi or bluetooth) and send the commands to control the rc car
+
+### Control interface:
+Figuring out how to glue both the network interface and the hardware interface together efficiently
