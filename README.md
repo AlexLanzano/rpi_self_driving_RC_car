@@ -8,7 +8,13 @@ A self driving RC car using the Raspberry Pi
 * [Male to Female Jumper wires](https://www.amazon.com/Aketek-Jumper-Wires-Premium-Female/dp/B008MRZSH8)
 * [Basic kit](https://www.amazon.com/Elegoo-Electronics-Potentiometer-tie-points-Breadboard/dp/B01ERPEMAC/ref=sr_1_9?ie=UTF8&qid=1491430213&sr=8-9&keywords=raspberry%20pi%20jumper%20wires)
 * [picam](https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_2?ie=UTF8&qid=1491430587&sr=8-2&keywords=pi+cam)
-
+* Soldering Iron
+* Desoldering Pump
+* Transistors 
+* Resistors
+* step up converter
+* Wires
+* Solder
 
 # Project Breakdown
 
